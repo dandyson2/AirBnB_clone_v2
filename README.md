@@ -1,2 +1,2 @@
 # AirBnB_clone_v2
-This is a group project repo created by Ozioma Chukwumezie
+This is a group project repo created by Ozioma Chukwumezie and Stanley Kirega
